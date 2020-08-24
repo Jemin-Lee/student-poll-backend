@@ -1,0 +1,8 @@
+{
+  "properties": ["username", "name", "email", "password", "city", "country", "photo_filename"],
+  "usersData": [
+    ["simonlorimer", "Simon", "sal180@uclive.ac.nz", "simon", "Christchurch", "New Zealand", "usersimon.jpg"],
+    ["seanmadondo", "Sean", "sma297@uclive.ac.nz", "sean", "Christchurch", "New Zealand", "usersean.jpeg"],
+    ["jeminlee", "Jemin", "jle147@uclive.ac.nz", "jemin", "Christchurch", "New Zealand", "userjemin.jpg"]
+  ]
+}
